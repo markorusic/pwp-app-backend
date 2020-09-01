@@ -26,6 +26,7 @@ php artisan key:generate
 php artisan jwt:secret
 ```
 
+Pokrenuti aplikacijuČ
 ```sh
 php artisan serve
 ```
